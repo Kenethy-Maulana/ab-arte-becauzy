@@ -2,7 +2,7 @@
 export const site = {
   brandName: "AB Arte Becauzy",
   tagline: "Corte & Costura",
-  whatsappNumber: "258875292588", // Número real confirmado pela marca
+  whatsappNumber: "258846316194", // Número real confirmado pela marca
   email: "#", // TODO
   address: "#", // TODO
   instagram: "#", // TODO
